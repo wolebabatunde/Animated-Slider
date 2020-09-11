@@ -1,0 +1,2 @@
+# Animated-Slider
+Animated Slider
