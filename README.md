@@ -1,2 +1,3 @@
-# Animated-Slider
-Animated Slider
+PURE HTML AND CSS ANIMATED SLIDER 
+#ANIMATED
+#ANIMATED
